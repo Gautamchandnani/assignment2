@@ -7,7 +7,7 @@ body, h1, h2, h3, p, a {
 /* Apply some basic styling */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    background-color: #f7f9fc; /* Mild light blue */
     color: #333;
     line-height: 1.6;
     padding: 20px;
@@ -28,7 +28,7 @@ header h1 {
 main {
     max-width: 800px;
     margin: 20px auto;
-    background-color: #fff;
+    background-color: #ffffff; /* White background for contrast */
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
